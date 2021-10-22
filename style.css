@@ -1,0 +1,43 @@
+h1{
+	color: white;
+	font-weight: bolder;
+	padding-bottom: 15px;
+}
+div{
+	padding: 50px;
+	margin-top: 10px;
+	margin-right: 100px;
+	margin-left: 100px;
+	margin-bottom: 50px;
+	background-color: #1E1E1E;
+
+}
+body{
+	background-color: #121212;
+}
+#ep9{
+	background-color: #E85F14;
+}
+#first{
+	text-align: right;
+}
+#homeIMG{
+	width: 350px;
+	height: 415px;
+	display: block;
+	margin-bottom: 200px;
+	margin-left: 90px;
+
+}
+#first{
+	color: white;
+}
+a{
+	color: white;
+	margin-right: 10px;
+	
+}
+p{
+	font-size: 18px;
+}
+
